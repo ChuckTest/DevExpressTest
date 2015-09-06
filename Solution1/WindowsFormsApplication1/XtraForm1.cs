@@ -3,15 +3,15 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using DevExpress.XtraEditors;
 
 namespace WindowsFormsApplication1
 {
-    public partial class Form1 : Form
+    public partial class XtraForm1 : DevExpress.XtraEditors.XtraForm
     {
-        public Form1()
+        public XtraForm1()
         {
             InitializeComponent();
         }
