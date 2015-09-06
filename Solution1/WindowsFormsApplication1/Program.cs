@@ -14,6 +14,7 @@ namespace WindowsFormsApplication1
         static void Main()
         {
             DevExpress.Skins.SkinManager.EnableFormSkins();
+            DevExpress.UserSkins.BonusSkins.Register();
 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
