@@ -2,3 +2,12 @@ bin
 obj
 *.suo
 *.user
+
+#VS高版本打开低版本项目时，自动生成的备份
+Backup
+
+#VS2015自动生成的隐藏文件夹
+.vs
+
+#VS高版本打开低版本项目时，生成的记录日志
+UpgradeLog.htm
