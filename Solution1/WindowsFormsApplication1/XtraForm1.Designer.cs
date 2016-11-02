@@ -34,7 +34,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 14F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 262);
+            this.ClientSize = new System.Drawing.Size(884, 562);
             this.LookAndFeel.SkinName = "McSkin";
             this.LookAndFeel.UseDefaultLookAndFeel = false;
             this.Name = "XtraForm1";
